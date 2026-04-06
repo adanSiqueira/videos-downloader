@@ -42,10 +42,10 @@ async def download_endpoint(
 
         cookie_file = None
         if cookies:
-            cookie_file = cookies.file
+            cookie_file = cookies
 
         await run_in_threadpool(download_video, 
-                                url, str(output_path), cookies_file=cookie_file)
+                                url, str(output_path), cookie_filename=cookie_file)
 
         files = sorted(output_path.glob("*.mp4"), key=os.path.getmtime, reverse=True)
 
