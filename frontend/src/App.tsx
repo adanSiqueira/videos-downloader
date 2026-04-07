@@ -51,11 +51,11 @@ export default function GlassDownloader() {
       <div className="w-full max-w-xl rounded-2xl bg-white/10 backdrop-blur-lg p-8 shadow-xl border border-white/20 ring-1 ring-black mt-12">
 
         <h1 className="text-4xl font-bold text-white text-center mb-6">
-          YouTube Downloader
+          Web Videos Downloader
         </h1>
 
         <p className="text-white/80 text-center mb-8">
-          Paste your link and download in seconds
+          Download any video from web! Paste your link and download in seconds.
         </p>
 
         <div className="flex flex-col gap-4">
