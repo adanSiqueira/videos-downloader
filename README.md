@@ -18,10 +18,7 @@
 
 <br/>
 
-🌐 **Live Frontend:** [stream-video-downloader.vercel.app](https://stream-video-downloader.vercel.app/)  
-🔌 **Live API:** [stream-video-downloader.onrender.com](https://stream-video-downloader.onrender.com/)  
-📦 **Repository:** [github.com/adanSiqueira/videos-downloader](https://github.com/adanSiqueira/videos-downloader)
-
+🌐 **Live** [stream-video-downloader.vercel.app](https://stream-video-downloader.vercel.app/)  
 </div>
 
 ---
